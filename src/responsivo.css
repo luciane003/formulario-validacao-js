@@ -1,0 +1,125 @@
+@media(max-width: 912px) {
+    .principal {
+        flex-direction: column;
+        padding-left: 0;
+        max-width: 40rem;
+        min-height: 50rem;  
+    }
+
+    .cabecalho {
+        text-align: center;
+        margin-right: 0;
+    }
+
+    .titulo {
+        font-size: 28px;
+    }
+
+    .texto {
+        font-size: 24px;
+    }
+
+    .formulario {
+        margin-top: 11rem;
+        max-width: 390px;
+        min-height: 428px;
+    }
+
+    input.campo {
+        height: 2.4rem;
+    }
+
+    .botao {
+        margin-top: 3rem;
+    }
+}
+
+ @media(max-width: 540px) {
+    .principal {
+        max-width: 30rem;
+        min-height: 40rem;
+    }
+
+    .titulo {
+        font-size: 21px;
+    }
+
+    .texto {
+        font-size: 18px;
+    }
+
+    .formulario {
+        margin-top: 4rem;
+        max-width: 350px;
+        min-height: 388px;
+    }
+
+    input.campo {
+        height: 2.3rem;;
+    }
+
+    .botao {
+        margin-top: 1rem;
+    }
+ }
+
+ @media(max-width: 400px) {
+    .formulario {
+        max-width: 320px;
+        min-height: 358px;
+    }
+ }
+
+ @media (max-width: 350px) {
+    .principal {
+        max-width: 320px;
+    }
+
+    .titulo {
+        font-size: 20px;
+    }
+
+    .texto {
+        font-size: 16px;
+    }
+
+    .formulario {
+        margin-top: 2rem;
+        max-width: 310px;
+        min-height: 348px;
+    }
+ }
+
+ @media (min-width: 1024px) and (min-height:1000px) {
+    .principal {
+        flex-direction: column;
+        min-height: 45rem;
+        padding-left: 0;
+    }
+
+    .cabecalho {
+        text-align: center;
+    }
+
+    .titulo {
+        font-size: 30px;
+    }
+
+    .texto {
+        font-size: 22px;
+    }
+
+    .formulario {
+        margin-top: 10rem;
+        max-width: 390px;
+        min-height: 428px;
+    }
+
+    input.campo {
+        height: 2.4rem;;
+    }
+
+    .botao {
+        margin-top: 3rem;
+    }
+ }

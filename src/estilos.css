@@ -1,0 +1,108 @@
+body {
+    background-image: url(../imagens/bg-repeat.jpg);
+    background-size: auto 100%;
+    background-repeat: repeat-x;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.principal {
+    width: 100%;
+    max-width: 48rem;
+    min-height: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+.cabecalho {
+    width: 300px;
+    height: 111px;
+    margin-right: 2rem;
+}
+
+.titulo {
+    color: #fff;
+    font-size: 20px;
+}
+
+.texto {
+    color: #fff;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.formulario {
+    width: 100%;
+    max-width: 340px;
+    min-height: 378px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.campo {
+    border-radius: 5px;
+    width: 100%;
+    border: 1.6px solid #000000;
+    padding-left: 7px;
+}
+
+input.campo {
+    height: 2.2rem;
+}
+
+textarea.campo {
+    resize: none;
+    height: 6rem;
+    padding-top: 8px;
+}
+
+.mensagem-alerta {
+    font-size: 8px;
+    color: red;
+    top: 2px;
+    margin-bottom: 5px;
+    visibility: hidden;
+    position: relative;
+}
+
+.nome-usuario,
+.email,
+.telefone {
+    display: flex;
+    flex-direction: column;
+}
+
+.botao {
+    color: #fff;
+    background-color: #3CCC87;
+    margin-top: 8px;
+    height: 2.5rem;
+    border-radius: 5px;
+    border: none;
+}
+
+.erro {
+    border: 1.6px solid red;
+}
+
+.sucesso {
+    border: 1.6px solid green;
+}

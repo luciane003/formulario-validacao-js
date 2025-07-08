@@ -27,8 +27,16 @@ Acesse [aqui.](https://luciane003.github.io/formulario-responsivo-js/)
 
 
 ## Prévia do Projeto
-<div align="center">
-  <img alt="tela>
+
+### 📌 Formulário Inicial 
+![Formulário inicial](./src/design/formulario-inicial.png)
+
+### 🔄 Validação: Erro vs Sucesso
+<p align="center">
+  <img src="./src/design/formulario-preenchimento incompleto.png" alt="Formulário com erro" width="45%">
+  &nbsp;&nbsp;
+  <img src="./src/design/formulario-preenchimento-completo.png" alt="Formulário com sucesso" width=45%>
+</p>
 
 ## Autora
 - Luciane Kellen

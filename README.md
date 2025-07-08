@@ -26,7 +26,7 @@ Acesse [aqui.](https://luciane003.github.io/formulario-responsivo-js/)
 </div><br>  
 
 ## Prévia do Projeto
-Formulário de Contato com Validação ✅
+Abaixo, veja a diferença visual entre o formulário vazio, com erro e com sucesso na validação:
 
 ### 📌 Formulário Inicial 
 ![Formulário inicial](./src/design/formulario-inicial.png)

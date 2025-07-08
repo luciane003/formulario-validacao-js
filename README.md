@@ -26,7 +26,9 @@ Acesse [aqui.](https://luciane003.github.io/formulario-responsivo-js/)
 </div><br>  
 
 
-## Projeto visual
+## Prévia do Projeto
+<div align="center">
+  <img alt="tela>
 
 ## Autora
 - Luciane Kellen

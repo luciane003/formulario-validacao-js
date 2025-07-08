@@ -31,12 +31,11 @@ Acesse [aqui.](https://luciane003.github.io/formulario-responsivo-js/)
 ### 📌 Formulário Inicial 
 ![Formulário inicial](./src/design/formulario-inicial.png)
 
-### 🔄 Validação: Erro vs Sucesso
-<p align="center">
-  <img src="./src/design/formulario-preenchimento incompleto.png" alt="Formulário com erro" width="45%">
-  &nbsp;&nbsp;
-  <img src="./src/design/formulario-preenchimento-completo.png" alt="Formulário com sucesso" width=45%>
-</p>
+### ❌ Com Erros de Validação
+![Formulário com erro](./src/design/formulario-preenchimento%20incompleto.png)
+
+### ✅ Validação com Sucesso
+![Formulário válido](./src/design/formulario-preenchimento-completo.png)
 
 ## Autora
 - Luciane Kellen

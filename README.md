@@ -1,4 +1,4 @@
-# Formulário 🖥
+# Formulário Contato com Validação ✅
 
 ## Descrição
 Formulário de contato com validação: apresenta um aviso informando que, em caso de dúvidas, o usuário pode enviar uma mensagem. Abaixo, há campos para preenchimento do nome, e-mail, telefone e a mensagem em si. O botão de envio só funciona quando todos os campos obrigatórios estão preenchidos corretamente; caso contrário, o envio não é realizado.
